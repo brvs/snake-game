@@ -269,11 +269,3 @@ main =
     bg             = greyN 0.2
     width          = posX initSqSize * (1 + posX initWorldSize)
     height         = posY initSqSize * (1 + posY initWorldSize)
-
--- ideas
--- - randomly outline map w/ pseudo-apples where if you eat all then walls are removed to let you wrap around
--- - corner apples give bonus
--- - if you eat an apple in minimum time possible you get a bonus
--- - bonus could be extra life where if you die then your old body turns into apples but you keep speed & score
--- - ai enemy snake like tron
-
